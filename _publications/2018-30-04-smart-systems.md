@@ -11,7 +11,7 @@ citation: 'Palagin, O., Petrenko, M., Malakhov, K. (2018). Information Technolog
 
 The article describes the methodological foundations of the development of scientific research design systems, which include: models, technology and tools for processing large volumes of text information/data; the formation of conceptual structures (ontologies) of different branches of knowledge, their system integration based on transdisciplinary and ontology concepts.
 
-*Bibtex*
+*Bibtex:*
 ```
 @article{Palagin_2018,
    title={Information Technology and Integrated Tools for Support of the Smart Systems Research Design},
