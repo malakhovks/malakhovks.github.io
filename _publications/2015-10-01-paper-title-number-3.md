@@ -8,6 +8,7 @@ venue: 'Problems of programming'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
+
 *[Information technology and integrated tools for support of smart systems research design](https://doi.org/10.15407/usim.2018.02.019)*.
 Oleksandr Palagin, Mykola Petrenko, Kyrylo Malakhov.
 
