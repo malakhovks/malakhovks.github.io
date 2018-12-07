@@ -2,7 +2,7 @@
 title: "Information technology and integrated tools for support of smart systems research design"
 collection: publications
 permalink: /publication/2018-30-04-smart-systems
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'The article describes the methodological foundations of the development of scientific research design systems, which include: models, technology and tools for processing large volumes of text information/data; the formation of conceptual structures (ontologies) of different branches of knowledge, their system integration based on transdisciplinary and ontology concepts.'
 date: 2018-04-30
 venue: 'Upravlâûŝie sistemy i mašiny'
 paperurl: 'https://doi.org/10.15407/usim.2018.02.019'
