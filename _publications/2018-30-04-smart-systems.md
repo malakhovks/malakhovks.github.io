@@ -6,11 +6,12 @@ excerpt: 'The article describes the methodological foundations of the developmen
 date: 2018-04-30
 venue: 'Upravlâûŝie sistemy i mašiny'
 paperurl: 'https://doi.org/10.15407/usim.2018.02.019'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Palagin, O., Petrenko, M., Malakhov, K. (2018). Information Technology and Integrated Tools for Support of the Smart Systems Research Design <i>Upravlâûŝie sistemy i mašiny, 2(274)</i>, 19-30. DOI: 10.15407/usim.2018.02.019'
 ---
 
 The article describes the methodological foundations of the development of scientific research design systems, which include: models, technology and tools for processing large volumes of text information/data; the formation of conceptual structures (ontologies) of different branches of knowledge, their system integration based on transdisciplinary and ontology concepts.
 
+*Bibtex*
 ```
 @article{Palagin_2018,
    title={Information Technology and Integrated Tools for Support of the Smart Systems Research Design},
