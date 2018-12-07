@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kyrylo Malakhov"
+  name             : "Kyrylo Malakhov / Academic blog"
   avatar           : "IMG_9243.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Kyiv/Ukraine"
-  employer         : "Glushkov Institute of Cybernetics of National Academy of Sciences of Ukraine"
-  googlescholar    : "https://scholar.google.com.ua/citations?user=oVujEyQAAAAJ&hl=en"
-  email            :  "malakhovks@nas.gov.ua"
+  location         : "Location"
+  employer         :
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-3223-9844"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "malakhovks"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
