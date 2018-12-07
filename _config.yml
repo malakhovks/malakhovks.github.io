@@ -84,7 +84,7 @@ author:
   avatar           : "IMG_9243.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Kyiv/Ukraine"
-  employer         : "Glushkov Institute of Cybernetics of National Academy of Sciences of Ukraine"
+  employer         : "Glushkov Institute of Cybernetics"
   googlescholar    : "https://scholar.google.com.ua/citations?user=oVujEyQAAAAJ&hl=en"
   email            :  "malakhovks@nas.gov.ua"
   uri              :
@@ -251,7 +251,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Kiev # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
