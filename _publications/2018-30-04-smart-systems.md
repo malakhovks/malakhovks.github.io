@@ -27,7 +27,7 @@ The article describes the methodological foundations of the development of scien
    pages={19–-30}
 }
 ```
-***Links:***
+***Links (full text in Russian):***
 * [arXiv.org](https://arxiv.org/a/0000-0003-3223-9844): [https://arxiv.org/abs/1805.00437](https://arxiv.org/abs/1805.00437)
 * [dspace.nbuv.gov.ua](http://dspace.nbuv.gov.ua/): [http://dspace.nbuv.gov.ua/handle/123456789/144130](http://dspace.nbuv.gov.ua/handle/123456789/144130)
 * [usim.org.ua](http://usim.org.ua/?lang=en): [http://usim.org.ua/?page_id=3311&lang=en](http://usim.org.ua/?page_id=3311&lang=en)
