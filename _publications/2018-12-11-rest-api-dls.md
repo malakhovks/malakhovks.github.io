@@ -28,6 +28,6 @@ The given paper presents an overview of modern RESTful API description languages
 }
 ```
 
-***Links:***
+***Links (full text in English):***
 * [arXiv.org](https://arxiv.org/a/0000-0003-3223-9844): [https://arxiv.org/abs/1811.04659](https://arxiv.org/abs/1811.04659)
 * [pp.isofts.kiev.ua repository](http://pp.isofts.kiev.ua): [http://pp.isofts.kiev.ua/ojs1/article/view/335](http://pp.isofts.kiev.ua/ojs1/article/view/335)

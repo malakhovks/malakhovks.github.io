@@ -27,6 +27,6 @@ Creation of supporting complex applications for scientific research has always b
 }
 ```
 
-***Links (full text in Russian):***
+***Links (full text in Ukrainian):***
 * [arXiv.org](https://arxiv.org/a/0000-0003-3223-9844): [https://arxiv.org/abs/1802.06768](https://arxiv.org/abs/1802.06768)
 * [pp.isofts.kiev.ua repository](http://pp.isofts.kiev.ua): [http://pp.isofts.kiev.ua/ojs1/article/view/323](http://pp.isofts.kiev.ua/ojs1/article/view/323)
