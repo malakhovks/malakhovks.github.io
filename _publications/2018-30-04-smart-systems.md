@@ -18,7 +18,7 @@ The article describes the methodological foundations of the development of scien
 @article{Palagin_2018,
    title={Information Technology and Integrated Tools for Support of the Smart Systems Research Design},
    ISSN={2518-1262},
-   url={http://usim.org.ua/?page_id=3311},
+   url={http://usim.org.ua/arch/2018/2/4.pdf},
    DOI={10.15407/usim.2018.02.019},
    number={2(274)},
    journal={Upravlâûŝie sistemy i mašiny},
