@@ -21,7 +21,7 @@ The article describes the methodological foundations of the development of scien
    url={http://usim.org.ua/arch/2018/2/4.pdf},
    DOI={10.15407/usim.2018.02.019},
    number={2(274)},
-   journal={Upravlâûŝie sistemy i mašiny},
+   journal={Upravl{\^{a}}{\^{u}}{\^{s}}ie sistemy i ma{\v{s}}iny},
    publisher={Co. Ltd. Ukrinformnauka},
    author={Palagin, Oleksandr V. and Petrenko, Mykola G. and Malakhov, Kyrylo S.},
    year={2018},

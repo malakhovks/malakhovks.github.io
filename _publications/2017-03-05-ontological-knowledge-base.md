@@ -18,7 +18,7 @@ Creation of supporting complex applications for scientific research has always b
    ISSN={1727-4907},
    url={http://pp.isofts.kiev.ua/ojs1/article/view/323/318},
    number={2},
-   journal={Problemy programmirovaniâ},
+   journal={Problemy programmirovani{\^{a}}},
    publisher={Publishing house "Academperiodika"},
    author={Oleksandr Palagin and Kyrylo Malakhov and Vitalii Velychko and Oleksandr Shchurov},
    year={2017},

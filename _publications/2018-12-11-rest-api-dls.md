@@ -22,7 +22,7 @@ The given paper presents an overview of modern RESTful API description languages
    url={http://pp.isofts.kiev.ua/ojs1/article/view/335},
    DOI={10.15407/pp2018.04.059},
    number={4},
-   journal={Problemy programmirovaniâ},
+   journal={Problemy programmirovani{\^{a}}},
    publisher={Publishing house "Academperiodika"},
    author={Kyrylo Malakhov and Oleksandr Kurgaev and Vitalii Velychko},
    year={2018},
