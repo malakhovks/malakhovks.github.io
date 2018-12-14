@@ -6,7 +6,7 @@ excerpt: 'The given paper considered a generalized model representation of the s
 date: 2014-05-20
 venue: 'Problemy programmirovaniâ'
 paperurl: 'http://dspace.nbuv.gov.ua/handle/123456789/113235'
-citation: 'Palagin, A.V., Petrenko, N.G., Velychko, V.Yu., Malakhov, K.S. (2014). Research and Development Workstation Environment: the new class of Current Research Information Systems. <i>Problemy programmirovaniâ, 2-3</i>, 221–232. Retrieved from'
+citation: 'Palagin, A.V., Petrenko, N.G., Velychko, V.Yu., Malakhov, K.S. (2014). Development of formal models, algorithms, procedures, engineering and functioning of the software system "Instrumental complex for ontological engineering purpose". <i>Problemy programmirovaniâ, 2-3</i>, 221–232. Retrieved from'
 ---
 
 The given paper considered a generalized model representation of the software system "Instrumental complex for ontological engineering purpose". Represented complete software system development process. Developed relevant formal models of the software system "Instrumental complex for ontological engineering purpose", represented as mathematical expressions, UML diagrams, and also described the three-tier architecture of the software system "Instrumental complex for ontological engineering purpose" in a client-server environment.
