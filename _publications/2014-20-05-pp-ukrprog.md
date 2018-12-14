@@ -13,7 +13,7 @@ The given paper considered a generalized model representation of the software sy
 
 ***Bibtex:***
 ```
-@article{Palagin_2014_2,
+@article{Palagin2014pp,
    title={Development of formal models, algorithms, procedures, engineering and functioning of the software system "Instrumental complex for ontological engineering purpose"},
    ISSN={1727-4907},
    url={http://dspace.nbuv.gov.ua/handle/123456789/113235},
@@ -26,7 +26,28 @@ The given paper considered a generalized model representation of the software sy
    pages={221–-232}
 }
 ```
-
+```
+@inproceedings{Palagin2014pp,
+   title={Development of formal models, algorithms, procedures, engineering and functioning of the software system "Instrumental complex for ontological engineering purpose"},
+   url={http://ceur-ws.org/Vol-1843/221-232.pdf},
+   author={Palagin, A.V. and Petrenko, N.G. and Velychko, V.Yu. and Malakhov, K.S.},
+   pages={221–-232},
+   crossref = {UkrPROG2014},
+}
+@proceedings{UkrPROG2014,
+  booktitle = {International Conference of Programming UkrPROG 2014},
+  year = 2014,
+  editor = {Sergienko, Ivan and Andon, Philip},
+  volume = 1843,
+  series = {CEUR Workshop Proceedings},
+  publisher = {CEUR-WS.org},
+  url = {http://ceur-ws.org/Vol-1843/},
+  venue = {Kyiv, Ukraine},
+  eventdate = {2014-05-20},
+  title = {Proceedings of the 9th International Conference of Programming UkrPROG 2014}
+}
+```
 ***Links (full text in Russian):***
+* [CEUR Workshop Proceedings (CEUR-WS.org)](http://ceur-ws.org/): [http://ceur-ws.org/Vol-1843/](http://ceur-ws.org/Vol-1843/); [http://ceur-ws.org/Vol-1843/221-232.pdf](http://ceur-ws.org/Vol-1843/221-232.pdf)
 * [arXiv.org](https://arxiv.org/a/0000-0003-3223-9844): [https://arxiv.org/abs/1803.10684](https://arxiv.org/abs/1803.10684)
 * [dspace.nbuv.gov.ua](http://dspace.nbuv.gov.ua/): [http://dspace.nbuv.gov.ua/handle/123456789/113235](http://dspace.nbuv.gov.ua/handle/123456789/113235)
