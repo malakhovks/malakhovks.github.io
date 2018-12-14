@@ -16,7 +16,7 @@ The given paper presents an overview of modern RESTful API description languages
 
 ***Bibtex:***
 ```
-@article{Malakhov_2018,
+@article{Malakhov2018pp,
    title={Modern RESTful API DLs and frameworks for RESTful web services API schema modeling, documenting, visualizing},
    ISSN={1727-4907},
    url={http://pp.isofts.kiev.ua/ojs1/article/view/335},

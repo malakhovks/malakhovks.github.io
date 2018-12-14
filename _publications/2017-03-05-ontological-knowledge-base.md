@@ -13,7 +13,7 @@ Creation of supporting complex applications for scientific research has always b
 
 ***Bibtex:***
 ```
-@article{Palagin_2017_pp_2,
+@article{Palagin2017pp,
    title={Designing and program implementation of the subsystem for creation and use of the ontological knowledge base of the scientific employee publications},
    ISSN={1727-4907},
    url={http://pp.isofts.kiev.ua/ojs1/article/view/323/318},
