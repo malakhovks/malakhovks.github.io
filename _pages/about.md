@@ -8,4 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Coming soon . . .
+Junior researcher, V. M. Glushkov Institute of Cybernetics.
+## Research interests and academic achievements
+* Computer Science;
+* Artificial Intelligence;
+* Natural Language Processing;
+* Natural Language Understanding;
+* Ontology Engineering;
+* Knowledge Management;
+* Semantic Web;
+* E-learning;
+* Current Research Information System; Research and Development Workstation Environment.
+
