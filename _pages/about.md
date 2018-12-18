@@ -18,5 +18,6 @@ Junior researcher, V. M. Glushkov Institute of Cybernetics.
 * Knowledge Management;
 * Semantic Web;
 * E-learning;
-* Current Research Information System; Research and Development Workstation Environment.
+* Current Research Information System;
+* Research and Development Workstation Environment.
 
