@@ -11,7 +11,7 @@ redirect_from:
 Junior researcher.
 The National Academy of Sciences of Ukraine.
 V. M. Glushkov Institute of Cybernetics.
-Microprocessor technology department № 205
+Microprocessor technology department № 205.
 
 ## Research interests and academic achievements
 * Computer Science;
