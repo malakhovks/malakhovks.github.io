@@ -9,14 +9,12 @@ redirect_from:
 ---
 
 ## Research interests and academic achievements
-* Computer Science;
-* Artificial Intelligence;
-* Natural Language Processing;
-* Natural Language Understanding;
-* Ontology Engineering;
-* Knowledge Management;
-* Semantic Web;
-* E-learning;
-* Current Research Information System;
-* Research and Development Workstation Environment.
+* Computer Science
+* Artificial Intelligence
+* Semantic Web
+* Natural Language Processing
+* Ontology Engineering
+* E-learning
+* Current Research Information System
+* Research and Development Workstation Environment
 
