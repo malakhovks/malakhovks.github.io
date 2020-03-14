@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-30-04-smart-systems
 excerpt: 'The article describes the methodological foundations of the development of scientific research design systems, which include: models, technology and tools for processing large volumes of text information/data; the formation of conceptual structures (ontologies) of different branches of knowledge, their system integration based on transdisciplinary and ontology concepts.'
 date: 2018-04-30
-venue: 'Scientific journal "Upravlâûŝie sistemy i mašiny".'
+venue: 'Upravlâûŝie sistemy i mašiny'
 paperurl: 'http://usim.org.ua/?page_id=3311&lang=en'
 citation: 'Palagin, O., Petrenko, M., Malakhov, K. (2018). Information Technology and Integrated Tools for Support of the Smart Systems Research Design. <i>Upravlâûŝie sistemy i mašiny, 2(274)</i>, 19-30. DOI: 10.15407/usim.2018.02.019'
 ---
@@ -13,7 +13,7 @@ citation: 'Palagin, O., Petrenko, M., Malakhov, K. (2018). Information Technolog
 
 The article describes the methodological foundations of the development of scientific research design systems, which include: models, technology and tools for processing large volumes of text information/data; the formation of conceptual structures (ontologies) of different branches of knowledge, their system integration based on transdisciplinary and ontology concepts.
 
-**Bibtex:**
+**Bibtex (Upravlâûŝie sistemy i mašiny):**
 ```
 @article{Palagin2018usim,
    title={Information Technology and Integrated Tools for Support of the Smart Systems Research Design},
