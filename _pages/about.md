@@ -14,6 +14,7 @@ redirect_from:
 * Semantic Web
 * Natural Language Processing
 * Ontology Engineering
+* Computational linguistics
 * E-learning
 * Current Research Information System
 * Research and Development Workstation Environment
