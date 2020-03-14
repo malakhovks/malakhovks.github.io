@@ -19,6 +19,10 @@ redirect_from:
 * Current Research Information System
 * Research and Development Workstation Environment
 
+**Check my last [Publications](https://malakhovks.github.io/year-archive/).**
+
+------
+
 **Sections [Blog Posts](https://malakhovks.github.io/year-archive/), [Talks](https://malakhovks.github.io/talks/) and [CV](https://malakhovks.github.io/cv/) not ready yet.**
 
 
