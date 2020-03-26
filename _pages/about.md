@@ -23,7 +23,7 @@ redirect_from:
 
 ------
 
-**Sections [Blog Posts](https://malakhovks.github.io/year-archive/), [Talks](https://malakhovks.github.io/talks/) and [CV](https://malakhovks.github.io/cv/) not ready yet**
+**Sections [Blog Posts](https://malakhovks.github.io/year-archive/), [Talks](https://malakhovks.github.io/talks/) and [CV](https://malakhovks.github.io/cv/) aren't ready yet**
 
 
 
