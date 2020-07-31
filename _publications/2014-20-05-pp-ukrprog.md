@@ -9,6 +9,7 @@ paperurl: 'http://ceur-ws.org/Vol-1843/221-232.pdf'
 citation: 'A.V. Palagin, N.G. Petrenko, V.Yu. Velychko, and K.S. Malakhov. Development of formal models, algorithms, procedures, engineering and functioning of the software system "Instrumental complex for ontological engineering purpose". In Ivan Sergienko and Philip Andon, editors, International Conference of Programming UkrPROG 2014, volume 1843 of CEUR Workshop Proceedings, pages 221-232. CEUR-WS.org, 2014'
 ---
 
+**Abstract:**
 <p style="font-size:11pt">
 The given paper considered a generalized model representation of the software system "Instrumental complex for ontological engineering purpose". Represented complete software system development process. Developed relevant formal models of the software system "Instrumental complex for ontological engineering purpose", represented as mathematical expressions, UML diagrams, and also described the three-tier architecture of the software system "Instrumental complex for ontological engineering purpose" in a client-server environment.
 </p>
