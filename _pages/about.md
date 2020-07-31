@@ -10,16 +10,16 @@ redirect_from:
 
 ## Research interests and academic achievements
 * Computer Science
-* Artificial Intelligence
+* **Artificial Intelligence**
 * Semantic Web
-* Natural Language Processing
-* Ontology Engineering
-* Computational linguistics
+* **Natural Language Processing**
+* **Ontology Engineering**
+* **Computational linguistics**
 * E-learning
 * Current Research Information System
 * Research and Development Workstation Environment
 
-**Check my last [Publications](https://malakhovks.github.io/publications/)**
+**Check my last [Publications](https://malakhovks.github.io/publications/) list**
 
 ------
 
