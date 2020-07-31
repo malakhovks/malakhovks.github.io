@@ -19,7 +19,7 @@ redirect_from:
 * Current Research Information System
 * Research and Development Workstation Environment
 
-**Check my last [Publications](https://malakhovks.github.io/publications/) list**
+**Check my last [Publications list](https://malakhovks.github.io/publications/)**
 
 ------
 
