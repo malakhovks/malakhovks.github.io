@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-## Research interests and academic achievements
+## Research interests and Academic achievements
 * Computer Science
 * **Artificial Intelligence**
 * Semantic Web
