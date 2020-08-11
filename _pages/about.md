@@ -13,9 +13,9 @@ redirect_from:
 * Computer Science
 * **Artificial Intelligence**
 * Semantic Web
+* **Computational linguistics**
 * **Natural Language Processing**
 * **Ontology Engineering**
-* **Computational linguistics**
 * E-learning
 * Current Research Information System
 * Research and Development Workstation Environment
