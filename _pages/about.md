@@ -13,12 +13,12 @@ redirect_from:
 * Computer Science
 * **Artificial Intelligence**
 * Semantic Web
-* **Computational linguistics**
-* **Natural Language Processing**
+* **Computational linguistics (NLP, NLU, NLI)**
 * **Ontology Engineering**
 * E-learning
-* Current Research Information System
-* Research and Development Workstation Environment
+* **Hospital Information System (HIS)**
+* Current Research Information System (CRIS)
+* Research and Development Workstation Environment (RDWE)
 
 **Check my latest [Publications](https://malakhovks.github.io/publications/)**
 
