@@ -20,11 +20,11 @@ redirect_from:
 * Current Research Information System (CRIS)
 * Research and Development Workstation Environment (RDWE)
 
-**Check my latest [Publications](https://malakhovks.github.io/publications/)**
+**Check my latest [Publications](https://malakhovks.github.io/publications/)** and [Blog Posts](https://malakhovks.github.io/year-archive/)
 
 ------
 
-**Sections [Blog Posts](https://malakhovks.github.io/year-archive/), [Talks](https://malakhovks.github.io/talks/), [CV](https://malakhovks.github.io/cv/) aren't ready yet**
+**Sections [Talks](https://malakhovks.github.io/talks/), [CV](https://malakhovks.github.io/cv/) aren't ready yet**
 
 
 
