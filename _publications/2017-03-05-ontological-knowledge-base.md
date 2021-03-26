@@ -26,7 +26,7 @@ Creation of supporting complex applications for scientific research has always b
    author={Oleksandr Palagin and Kyrylo Malakhov and Vitalii Velychko and Oleksandr Shchurov},
    year={2017},
    month={May},
-   pages={72–-81}
+   pages={72–81}
 }
 ```
 

@@ -30,7 +30,7 @@ The given paper presents an overview of modern RESTful API description languages
    author={Kyrylo Malakhov and Oleksandr Kurgaev and Vitalii Velychko},
    year={2018},
    month={November},
-   pages={59–-68}
+   pages={59–68}
 }
 ```
 

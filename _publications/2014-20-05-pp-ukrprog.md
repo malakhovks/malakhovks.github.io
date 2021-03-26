@@ -20,7 +20,7 @@ The given paper considered a generalized model representation of the software sy
    title={Development of formal models, algorithms, procedures, engineering and functioning of the software system "Instrumental complex for ontological engineering purpose"},
    url={http://ceur-ws.org/Vol-1843/221-232.pdf},
    author={Palagin, A.V. and Petrenko, N.G. and Velychko, V.Yu. and Malakhov, K.S.},
-   pages={221–-232},
+   pages={221–232},
    crossref = {UkrPROG2014},
 }
 @proceedings{UkrPROG2014,
@@ -48,7 +48,7 @@ The given paper considered a generalized model representation of the software sy
    author={Palagin, A.V. and Petrenko, N.G. and Velychko, V.Yu. and Malakhov, K.S.},
    year={2014},
    month={May},
-   pages={221–-232}
+   pages={221–232}
 }
 ```
 

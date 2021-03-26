@@ -29,7 +29,7 @@ The article describes the methodological foundations of the development of scien
    author={Palagin, Oleksandr V. and Petrenko, Mykola G. and Malakhov, Kyrylo S.},
    year={2018},
    month={Aug},
-   pages={19–-30}
+   pages={19–30}
 }
 ```
 
