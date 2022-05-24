@@ -6,7 +6,7 @@ excerpt: 'One of the most effective solutions in medical rehabilitation assistan
 date: 2022-05-20
 venue: 'International Journal of Telerehabilitation'
 paperurl: 'https://doi.org/10.5195/ijt.2022.6480'
-citation: 'Velychko, V., Malakhov, K., Palagin, O., Semykopna, T., Shchurov, O. (2021). SMART-system for remote support of rehabilitation activities and services: formal model and applications development. <i>Journal of Ukrainian Society of Physical and Rehabilitation Medicine, Issue 3-4, Vol 9</i>, 85-94. DOI: https://doi.org/10.54601/2523-479X.2021.9.3-4.11'
+citation: 'Palagin, O., Malakhov, K., Velychko, V., Semykopna, T. (2022). Hybrid e-rehabilitation services: SMART-system for remote support of rehabilitation activities and services. <i>International Journal of Telerehabilitation, Special Issue: Research Status Report – Ukraine , 1-16.'
 ---
 
 **DOI: [https://doi.org/10.5195/ijt.2022.6480](https://doi.org/10.5195/ijt.2022.6480)**
