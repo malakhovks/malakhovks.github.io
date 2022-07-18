@@ -12,16 +12,15 @@ redirect_from:
 ## Research interests and Academic achievements
 
 * Computer Science
-* **Artificial Intelligence**
+* Artificial Intelligence
 * Semantic Web
 * **Computational linguistics (NLP, NLU, NLI)**
 * **Ontology Engineering**
-* **Hospital Information System (HIS)**
-* **Hybrid e-rehabilitation**
-* **eHealth / e-health**
+* **Digital health**
+* **Hybrid e-rehabilitation / Telerehabilitation**
 * Current Research Information System (CRIS)
 * Research and Development Workstation Environment (RDWE)
-* E-learning
+* e-learning
 
 **Check my latest [Publications](https://malakhovks.github.io/publications/)** and [Blog Posts](https://malakhovks.github.io/year-archive/)
 
