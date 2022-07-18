@@ -15,7 +15,7 @@ redirect_from:
 * Artificial Intelligence
 * Semantic Web
 * **Computational linguistics (NLP, NLU, NLI)**
-* **Ontology Engineering**
+* **Ontology engineering**
 * **Digital health**
 * **Hybrid e-rehabilitation / Telerehabilitation**
 * Current Research Information System (CRIS)
