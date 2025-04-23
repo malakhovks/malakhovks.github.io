@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CURRICULUM VITAE Malakhov Kyrylo Serhiiovych"
+title: "CURRICULUM VITAE Kyrylo Serhiiovych Malakhov"
 permalink: /cv/
 author_profile: true
 redirect_from:
