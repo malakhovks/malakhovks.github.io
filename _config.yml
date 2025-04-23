@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kyrylo Malakhov / Academic blog"
+title                    : "Kyrylo S. Malakhov / Academic blog"
 title_separator          : "-"
-name                     : &name "Kyrylo Malakhov"
+name                     : &name "Kyrylo S. Malakhov"
 description              : &description "personal description"
 url                      : https://malakhovks.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kyrylo Malakhov"
   avatar           : "profile.png"
-  bio              : "Completely immersed in Computer Science 💻 📚 Scientific associate"
+  bio              : "Completely immersed in Computer Science 💻 📚"
   location         : "Kyiv/Ukraine"
   employer         :
   googlescholar    : "https://scholar.google.com.ua/citations?user=oVujEyQAAAAJ&hl=en"

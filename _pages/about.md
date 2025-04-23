@@ -22,7 +22,7 @@ redirect_from:
 * Research and Development Workstation Environment (RDWE)
 * e-learning
 
-**Check my latest [Publications](https://malakhovks.github.io/publications/)** and [Blog Posts](https://malakhovks.github.io/year-archive/)
+**Check my Linktree: [https://linktr.ee/malakhovks](https://linktr.ee/malakhovks)**
 
 ------
 
