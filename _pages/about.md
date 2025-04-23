@@ -26,7 +26,4 @@ redirect_from:
 
 ------
 
-**Sections [Talks](https://malakhovks.github.io/talks/), [CV](https://malakhovks.github.io/cv/) aren't ready yet**
-
-
-
+<!-- **Sections [Talks](https://malakhovks.github.io/talks/), [CV](https://malakhovks.github.io/cv/) aren't ready yet** -->
