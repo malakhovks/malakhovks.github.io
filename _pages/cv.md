@@ -9,15 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+🎓 Education
 ======
-* From 2004 to 2008, studied at the Faculty of Foreign Languages of Taras Shevchenko Luhansk National University. Higher education in the field of Philology. Earned a Bachelor's degree in Philology with a qualification as a teacher of English and World Literature. Diploma AH №35283526 dated June 30, 2008.
+- **Taras Shevchenko Luhansk National University**  
+  **Faculty of Foreign Languages**  
+  *Bachelor's Degree in Philology*  
+  **Specialization:** Teacher of English and World Literature  
+  **Period:** 2004–2008  
+  **Diploma:** AH №35283526, dated June 30, 2008
 
-* From 2004 to 2009, studied at the Institute of Information Technologies of Taras Shevchenko Luhansk National University and obtained a complete higher education in the specialty "Computer Science," earning the qualification of software engineer and teacher of computer science and computing technology. Diploma AH №37437588 dated June 30, 2009.
+- **Taras Shevchenko Luhansk National University**  
+  **Institute of Information Technologies**  
+  *Specialist Degree in Computer Science*  
+  **Qualification:** Software Engineer, Teacher of Computer Science and Computing Technology  
+  **Period:** 2004–2009  
+  **Diploma:** AH №37437588, dated June 30, 2009
 
-* From 2009 to 2010, studied at the Institute of Information Technologies of Taras Shevchenko Luhansk National University in the specialty "Computer Science." Complete higher education in the specialty of Computer Science. Earned a Master's degree with qualifications as a software engineer and lecturer in computer science. Diploma AH №39699418 dated June 30, 2010.
+- **Taras Shevchenko Luhansk National University**  
+  **Institute of Information Technologies**  
+  *Master’s Degree in Computer Science*  
+  **Qualification:** Software Engineer, Lecturer in Computer Science  
+  **Period:** 2009–2010  
+  **Diploma:** AH №39699418, dated June 30, 2010
 
-* In 2010, enrolled in the postgraduate program at the V. M. Glushkov Institute of Cybernetics of the National Academy of Sciences of Ukraine in the specialty "Information Technologies" (specialty code 05.13.06). Graduated in 2013.
+- **V. M. Glushkov Institute of Cybernetics, National Academy of Sciences of Ukraine**  
+  *Postgraduate Program in Information Technologies (Specialty Code 05.13.06)*  
+  **Period:** 2010–2013
 
 Work experience
 ======
