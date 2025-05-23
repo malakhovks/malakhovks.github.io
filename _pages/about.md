@@ -20,6 +20,7 @@ Kyrylo S. Malakhov’s research is focused on **Artificial Intelligence**, parti
 * **Hybrid e-rehabilitation / Telerehabilitation**
 * Current Research Information System (CRIS)
 * Research and Development Workstation Environment (RDWE)
+* Digital Twin
 * e-learning
 
 A central focus of his work is the development and enhancement of **complex intelligent systems** that support the **full lifecycle of scientific research**, with an emphasis on their **practical applications in specific domains**.
